@@ -298,6 +298,12 @@ return [
              * manipulated before being executed.
              */
             'quoteIdentifiers' => false,
+            'host' => 'localhost',
+            'username' => 'admin',
+            'password' => 'PhuQuy0901474204',
+            'port' => 3306,
+            'database' => 'cake_cms',
+            'encoding' => 'utf8mb4',
 
             /*
              * During development, if using MySQL < 5.6, uncommenting the
